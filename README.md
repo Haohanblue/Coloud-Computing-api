@@ -21,6 +21,3 @@ app/createData.py下的`connection`
 app/routers/users.py下的simulate_send_sms函数里的`values中的互亿账号和密码`
 
 app/routers/orders.py下的七相支付的商户号和密钥，即`pid`和`key`
-=======
- 
->>>>>>> 8e42b19 (Initial commit)
